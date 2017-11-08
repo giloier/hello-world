@@ -1,1 +1,3 @@
 # hello-world
+BASIC INTRO
+FORGOT TO SAY HELLO
